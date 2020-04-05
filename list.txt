@@ -16,10 +16,14 @@ CNBC,p2p://fccsovh.pvbox.live:18912/5b59394400007aa87318c6abbfbb6a83.ts
 ALJAZEERA,p2p://fccsovh.pvbox.live:18912/5b1409fc0002578390b829f43087c5d5.ts
 DW-TV,p2p://fccsovh.pvbox.live:18912/5b14098f0005711ed0ff2066460b966b.ts
 FRANCE 24,p2p://fccsovh.pvbox.live:18912/5b14090b0008c74abfa76f7d9ccaaf4c.ts
+CGTN,http://live.cgtn.com/1000/prog_index.m3u8
 NHK-総合,p2p://fccsovh.pvbox.live:18912/5b140a550000ac16f3a1b02d6bd5f8c6.ts
 ABC HD,p2p://fccsovh.pvbox.live:18912/5b62db780005f75bf9114773250064fe.ts
 NBC-HD,p2p://fccsovh.pvbox.live:18912/5b593bf1000ccd51d37a21d1479a44f7.ts
 CBS-HD,p2p://fccsovh.pvbox.live:18912/5b59393700075d00d36f79d957914dd4.ts
+Россия 1,http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+RTE News,https://live.rte.ie/live/a/channel3/news.isml/news-audio_128k=128000-video=4499968.m3u8
+News Center 7 (Ohio),http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8
 
 纪录频道,#genre#
 国家地理,p2p://fccsovh.pvbox.live:18912/5b13f6f0000e0621c40e587775073b82.ts
@@ -34,6 +38,7 @@ TLC,p2p://fccsovh.pvbox.live:18912/5b13f6f10002d2efc77901768ade973b.ts
 探索頻道,p2p://fccsovh.pvbox.live:18912/5b14092b000cd4e0ed640b773543624a.ts
 DISCOVERY HD,p2p://fccsovh.pvbox.live:18912/5b14092b000cd4e0ed640b773543624a.ts
 科學頻道,p2p://fccsovh.pvbox.live:18912/5b14093f000e802b696378db44987f83.ts
+CGTN记录频道,http://live.cgtn.com/1000d/prog_index.m3u8
 OUTDOOR,p2p://fccsovh.pvbox.live:18912/5b1409db000a72d43a06d75e013589d8.ts
 HISTORY,p2p://fccsovh.pvbox.live:18912/5b1408f300071d3b6bc1eca52a95e91b.ts
 HISTORY-2,p2p://fccsovh.pvbox.live:18912/5b1408f3000402b2b347cadc76b8892b.ts
@@ -55,6 +60,7 @@ BIS BR,p2p://fccsovh.pvbox.live:18912/5bee4dfa000f1f1b19c8222a41021482.ts
 Music Box,p2p://fccsovh.pvbox.live:18912/5bee51cf00025dc319d716f615a56ce3.ts
 MTV BR,p2p://fccsovh.pvbox.live:18912/5bee509d0008c26919d26d4c0ada147c.ts
 MTV Portuga,p2p://fccsovh.pvbox.live:18912/5bee55420006f0ef19e491573e5860c3.ts
+Russian Music Box,http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
 
 电影频道,#genre#
 HBO強檔,p2p://fccsovh.pvbox.live:18912/5b14096900084dd99e1d5bcc5ece9c24.ts
