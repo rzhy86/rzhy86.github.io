@@ -114,6 +114,24 @@ CCTV-15音乐,http://www.dszbdq.cn/diao/ysp.php?tv=0205003
 安徽卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0298003
 黑龙江卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0293903
 
+上海电信,#genre#
+东方卫视,http://124.75.27.199:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=42&Provider_id=&Pcontent_id=
+东方影视,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=1&Provider_id=&Pcontent_id=
+上海都市,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=5&Provider_id=&Pcontent_id=
+新闻综合,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=18&Provider_id=&Pcontent_id=
+ICS,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=86&Provider_id=&Pcontent_id=
+纪实人文,http://124.75.27.199:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=37&Provider_id=&Pcontent_id=
+五星体育,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=1&Provider_id=&Pcontent_id=
+第1财经http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=7&Provider_id=&Pcontent_id=
+劲爆体育,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=51&Provider_id=&Pcontent_id=
+全纪实http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=18&Provider_id=&Pcontent_id=
+江苏卫视,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=76&Provider_id=&Pcontent_id=
+深圳卫视,http://124.75.27.199:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=43&Provider_id=&Pcontent_id=
+CCTV-3综艺,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=38&Provider_id=&Pcontent_id=
+CCTV-5体育,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=42&Provider_id=&Pcontent_id=
+CCTV-6电影,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=46&Provider_id=&Pcontent_id=
+CCTV-8电视剧,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=50&Provider_id=&Pcontent_id=
+
 PVBOX,#genre#
 今日俄罗斯,p2p://fccsovh.pvbox.live:18912/5b1409fc00006f1fc08cd16b0d3a6538.ts
 Space,p2p://fccsovh.pvbox.live:18912/5cffd7a8000e552429c6b62101c45bdb.ts
