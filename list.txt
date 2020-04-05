@@ -1,9 +1,9 @@
 新闻频道,#genre#
 CCTV-13新闻,http://www.dszbdq.cn/diao/ysp.php?tv=0204603
 CCTV-13,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
-CNN INTERNATIONAL,p2p://fccsovh.pvbox.live:18912/5b593947000cff32c5b9f462a6c98e1d.ts
 CNN,p2p://fccsovh.pvbox.live:18912/5b140954000dc92aa17edadd8e0a2886.ts
 CNN-HD,p2p://fccsovh.pvbox.live:18912/5b593947000cff32c5b9f462a6c98e1d.ts
+CNN INTERNATIONAL,p2p://fccsovh.pvbox.live:18912/5b593947000cff32c5b9f462a6c98e1d.ts
 BBC,p2p://fccsovh.pvbox.live:18912/5b140953000257fb5af59feaf00b7a6c.ts
 BBC HD,p2p://fccsovh.pvbox.live:18912/5b140953000257fb5af59feaf00b7a6c.ts
 TVBS,p2p://fccsovh.pvbox.live:18912/5b140960000c982bc8f85533fae5c65d.ts
