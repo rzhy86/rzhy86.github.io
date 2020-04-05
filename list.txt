@@ -1,5 +1,6 @@
 新闻频道,#genre#
 CCTV-13新闻,http://www.dszbdq.cn/diao/ysp.php?tv=0204603
+CCTV-13,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
 CNN INTERNATIONAL,p2p://fccsovh.pvbox.live:18912/5b593947000cff32c5b9f462a6c98e1d.ts
 CNN,p2p://fccsovh.pvbox.live:18912/5b140954000dc92aa17edadd8e0a2886.ts
 CNN-HD,p2p://fccsovh.pvbox.live:18912/5b593947000cff32c5b9f462a6c98e1d.ts
@@ -9,12 +10,68 @@ TVBS,p2p://fccsovh.pvbox.live:18912/5b140960000c982bc8f85533fae5c65d.ts
 无线新闻,p2p://fccsovh.pvbox.live:18912/5b1409fc000a355e58ad23d7d664a21b.ts
 今日俄罗斯,P2p://lino.homeunix.com:6007/5acb88f40000e1422c19ae4624f1680c.ts
 FOX-NEWS,p2p://fccsovh.pvbox.live:18912/5b593b140008b0a87b763330651120ae.ts
-SKY NEWS HD,p2p://fccsovh.pvbox.live:18912/5b13f6f0000c1dd6380aca7af0b63571.ts
+FOX新闻,p2p://fccsovh.pvbox.live:18912/5b25fce60007c58e5e9c8093abbf5604.ts
+BLOOMBERG,p2p://fccsovh.pvbox.live:18912/5b13f6f10000e96e63f34f6109464b85.ts
+CNBC,p2p://fccsovh.pvbox.live:18912/5b59394400007aa87318c6abbfbb6a83.ts
 ALJAZEERA,p2p://fccsovh.pvbox.live:18912/5b1409fc0002578390b829f43087c5d5.ts
 DW-TV,p2p://fccsovh.pvbox.live:18912/5b14098f0005711ed0ff2066460b966b.ts
 FRANCE 24,p2p://fccsovh.pvbox.live:18912/5b14090b0008c74abfa76f7d9ccaaf4c.ts
 NHK-総合,p2p://fccsovh.pvbox.live:18912/5b140a550000ac16f3a1b02d6bd5f8c6.ts
+ABC HD,p2p://fccsovh.pvbox.live:18912/5b62db780005f75bf9114773250064fe.ts
+NBC-HD,p2p://fccsovh.pvbox.live:18912/5b593bf1000ccd51d37a21d1479a44f7.ts
+CBS-HD,p2p://fccsovh.pvbox.live:18912/5b59393700075d00d36f79d957914dd4.ts
+
+纪录频道,#genre#
+国家地理,p2p://fccsovh.pvbox.live:18912/5b13f6f0000e0621c40e587775073b82.ts
+BBC EARTH,p2p://fccsovh.pvbox.live:18912/5b1408f200071c8b1d67497b97d9cb56.ts
+BBC LIFESTYLE,p2p://fccsovh.pvbox.live:18912/5b1408f2000906bdaf3ac58dff31c53a.ts
+NAT GEO WILD,p2p://fccsovh.pvbox.live:18912/5b1409170007d34265514bfb6f766515.ts
+NAT GEO,p2p://fccsovh.pvbox.live:18912/5b13f6f0000e0621c40e587775073b82.ts
+地理悠人,p2p://fccsovh.pvbox.live:18912/5b14093f000b29ff60a8012c4f012aa6.ts
+NAT-GEO,p2p://fccsovh.pvbox.live:18912/5b593be6000692ffd379f5421f363fda.ts
+TLC,p2p://fccsovh.pvbox.live:18912/5b13f6f10002d2efc77901768ade973b.ts
+動物星球,p2p://fccsovh.pvbox.live:18912/5b14096100006f33c3bac972d19faa1f.ts
+探索頻道,p2p://fccsovh.pvbox.live:18912/5b14092b000cd4e0ed640b773543624a.ts
+DISCOVERY HD,p2p://fccsovh.pvbox.live:18912/5b14092b000cd4e0ed640b773543624a.ts
+科學頻道,p2p://fccsovh.pvbox.live:18912/5b14093f000e802b696378db44987f83.ts
+OUTDOOR,p2p://fccsovh.pvbox.live:18912/5b1409db000a72d43a06d75e013589d8.ts
+HISTORY,p2p://fccsovh.pvbox.live:18912/5b1408f300071d3b6bc1eca52a95e91b.ts
+HISTORY-2,p2p://fccsovh.pvbox.live:18912/5b1408f3000402b2b347cadc76b8892b.ts
+HISTORY-HD,p2p://fccsovh.pvbox.live:18912/5b593bc700055296d3797bdc54675753.ts
+TRAVEL-CHANNEL,p2p://fccsovh.pvbox.live:18912/5b593cc2000954d9d37d515e0cf90580.ts
+FOOD-NETWORK,p2p://fccsovh.pvbox.live:18912/5b593b0c000caf35d376a3492c6338d5.ts
+亚洲美食 HD,p2p://fccsovh.pvbox.live:18912/5b1409da000c9801f2b123a3aa339358.ts
+
+音乐频道,#genre#
 MTV LIVE HD,p2p://fccsovh.pvbox.live:18912/5b1408f100084d6ac9e54fca2a2b4b87.ts
+MTV,p2p://fccsovh.pvbox.live:18912/5b593be2000770487f0adb192bfef549.ts
+VH1,p2p://fccsovh.pvbox.live:18912/5b593cce00005873d37d7dec5c6a453b.ts
+MEZZO LIVE HD,p2p://fccsovh.pvbox.live:18912/5b14090b0006deffcf6c104464440735.ts
+Raj Musix,p2p://fccsovh.pvbox.live:18912/5d7202840007b317114e36b577c44603.ts
+ZING,p2p://fccsovh.pvbox.live:18912/5b140a86000d4efe17d6ba281b876e59.ts
+B4U音乐台,p2p://fccsovh.pvbox.live:18912/5b140a860001636017d6b71a7ed41c74.ts
+VH1 BR,p2p://fccsovh.pvbox.live:18912/5bee4df40001a6a619c8074f691c0ac9.ts
+BIS BR,p2p://fccsovh.pvbox.live:18912/5bee4dfa000f1f1b19c8222a41021482.ts
+Music Box,p2p://fccsovh.pvbox.live:18912/5bee51cf00025dc319d716f615a56ce3.ts
+MTV BR,p2p://fccsovh.pvbox.live:18912/5bee509d0008c26919d26d4c0ada147c.ts
+MTV Portuga,p2p://fccsovh.pvbox.live:18912/5bee55420006f0ef19e491573e5860c3.ts
+
+电影频道,#genre#
+HBO強檔,p2p://fccsovh.pvbox.live:18912/5b14096900084dd99e1d5bcc5ece9c24.ts
+HBO原創,p2p://fccsovh.pvbox.live:18912/5b14096a000a35a1031ce8879f0e06db.ts
+HBO SIGNATURE,p2p://fccsovh.pvbox.live:18912/5b593bbb00085133f733c0891e1414f6.ts
+HBO EAST,p2p://fccsovh.pvbox.live:18912/5b593bb70009322fd3793e567a0f4afe.ts
+COMEDY-CENTRAL,p2p://fccsovh.pvbox.live:18912/5b593ae50004c1b3d37608dd4adb03fa.ts
+CINEMA WORLD,p2p://fccsovh.pvbox.live:18912/5bdbf3aa000b9c310eb01af3db41c039.ts
+fox movie,p2p://fccsovh.pvbox.live:18912/5b3c4f9c00034146378f0fdd3ebc8c6a.ts
+Fox Movies Premium,p2p://fccsovh.pvbox.live:18912/5e048461000659083e07ee59f3c6c776.ts
+SHOWTIME,p2p://fccsovh.pvbox.live:18912/5b593ca6000a671ad37ce43c097f614b.ts
+SHOWTIME2,p2p://fccsovh.pvbox.live:18912/5b593caa000a89a8d37cf3ec1d843e31.ts
+SYFY,p2p://fccsovh.pvbox.live:18912/5bee55e6000ecb2c19e713fa3c1d0080.ts
+TNT-HD,p2p://fccsovh.pvbox.live:18912/5b593cbe000ae51ad37d421c15cb43a5.ts
+Movie Network 1,p2p://fccsovh.pvbox.live:18912/5cffd5c70005b65a0db34d3e4370b3fe.ts
+Zee Cinema HD,p2p://fccsovh.pvbox.live:18912/5d72028b00032b96114e50e423fc1040.ts
+AMC Movie,p2p://fccsovh.pvbox.live:18912/5b1408f2000c5b2ddea340dcff4b000b.ts
 
 国内频道,#genre#
 CCTV-1综合,http://www.dszbdq.cn/diao/ysp.php?tv=0210103
