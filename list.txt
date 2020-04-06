@@ -1,30 +1,26 @@
 新闻频道,#genre#
-CCTV-13新闻,http://www.dszbdq.cn/diao/ysp.php?tv=0204603
-CCTV-13,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
-CNN,p2p://fccsovh.pvbox.live:18912/5b140954000dc92aa17edadd8e0a2886.ts
-CNN-HD,p2p://fccsovh.pvbox.live:18912/5b593947000cff32c5b9f462a6c98e1d.ts
-CNN INTERNATIONAL,p2p://fccsovh.pvbox.live:18912/5b593947000cff32c5b9f462a6c98e1d.ts
-BBC,p2p://fccsovh.pvbox.live:18912/5b140953000257fb5af59feaf00b7a6c.ts
-BBC HD,p2p://fccsovh.pvbox.live:18912/5b140953000257fb5af59feaf00b7a6c.ts
+CCTV-13,http://www.dszbdq.cn/diao/ysp.php?tv=0204603#http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
+CNN,p2p://fccsovh.pvbox.live:18912/5b140954000dc92aa17edadd8e0a2886.ts#p2p://fccsovh.pvbox.live:18912/5b593947000cff32c5b9f462a6c98e1d.ts#p2p://fccsovh.pvbox.live:18912/5b593947000cff32c5b9f462a6c98e1d.ts
+BBC,p2p://fccsovh.pvbox.live:18912/5b140953000257fb5af59feaf00b7a6c.ts#p2p://fccsovh.pvbox.live:18912/5b140953000257fb5af59feaf00b7a6c.ts
 TVBS,p2p://fccsovh.pvbox.live:18912/5b140960000c982bc8f85533fae5c65d.ts
 无线新闻,p2p://fccsovh.pvbox.live:18912/5b1409fc000a355e58ad23d7d664a21b.ts
 今日俄罗斯,P2p://lino.homeunix.com:6007/5acb88f40000e1422c19ae4624f1680c.ts
-FOX-NEWS,p2p://fccsovh.pvbox.live:18912/5b593b140008b0a87b763330651120ae.ts
-FOX新闻,p2p://fccsovh.pvbox.live:18912/5b25fce60007c58e5e9c8093abbf5604.ts
+FOX NEWS,p2p://fccsovh.pvbox.live:18912/5b593b140008b0a87b763330651120ae.ts#p2p://fccsovh.pvbox.live:18912/5b25fce60007c58e5e9c8093abbf5604.ts
 BLOOMBERG,p2p://fccsovh.pvbox.live:18912/5b13f6f10000e96e63f34f6109464b85.ts
 CNBC,p2p://fccsovh.pvbox.live:18912/5b59394400007aa87318c6abbfbb6a83.ts
 ALJAZEERA,p2p://fccsovh.pvbox.live:18912/5b1409fc0002578390b829f43087c5d5.ts
 DW-TV,p2p://fccsovh.pvbox.live:18912/5b14098f0005711ed0ff2066460b966b.ts
 FRANCE 24,p2p://fccsovh.pvbox.live:18912/5b14090b0008c74abfa76f7d9ccaaf4c.ts
-TBSニュースバード,p2p://42.116.8.235:9906/58a5394d0008eaaf002b3d3b91fd3936.ts
 CGTN,http://live.cgtn.com/1000/prog_index.m3u8
 凤凰资讯,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
+TBSニュースバード,p2p://42.116.8.235:9906/58a5394d0008eaaf002b3d3b91fd3936.ts
+Japan News 24,http://www.news24.jp/livestream/index.m3u8
 NHK-総合,p2p://fccsovh.pvbox.live:18912/5b140a550000ac16f3a1b02d6bd5f8c6.ts
-NHK World,p2p://lino.homeunix.com:6007/59fd0a09000c3214023bb18461b51f7a.ts
+NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
 ABC HD,p2p://fccsovh.pvbox.live:18912/5b62db780005f75bf9114773250064fe.ts
 NBC-HD,p2p://fccsovh.pvbox.live:18912/5b593bf1000ccd51d37a21d1479a44f7.ts
 CBS-HD,p2p://fccsovh.pvbox.live:18912/5b59393700075d00d36f79d957914dd4.ts
-Россия 1,http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+Россия 1,http://a787201928-s26881.cdn.ngenix.net/hls/russia_hd/playlist_3.m3u8
 RTE News,https://live.rte.ie/live/a/channel3/news.isml/news-audio_128k=128000-video=4499968.m3u8
 News Center 7 (Ohio),http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8
 
@@ -332,8 +328,8 @@ FOX 体育新闻,https://austchannel-live.akamaized.net/hls/live/2002736/austcha
 法国24台(法语),http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
 阿拉伯中国环球,http://live.cgtn.com/1000a/prog_index.m3u8
 俄罗斯军事频道,http://serv25.vintera.tv:8081/parad/patriot/playlist.m3u8
-俄罗斯中国环球,http://live.cgtn.com/1000r/prog_index.m3u8
-俄罗斯俄罗斯一台,http://a787201928-s26881.cdn.ngenix.net/hls/russia_hd/playlist_3.m3u8
+CGTN俄罗斯,http://live.cgtn.com/1000r/prog_index.m3u8
+俄罗斯一台,http://a787201928-s26881.cdn.ngenix.net/hls/russia_hd/playlist_3.m3u8
 俄罗斯时尚频道,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 乌克兰M2 音乐频道,http://live.m2.tv/hls3/stream.m3u8
 西班牙皇马足球,http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
