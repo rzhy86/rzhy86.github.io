@@ -1,5 +1,6 @@
 新闻频道,#genre#
 CCTV-13,http://www.dszbdq.cn/diao/ysp.php?tv=0204603#http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
+CNN,p8p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts#vjms://23.237.33.155:8500:3502/live/cid=428#vjms://58.215.133.161:8500/live/cid=428#vjms://58.215.133.185:8500:3502/live/cid=428#tvbus://3by6BHbyRcfGjQ23X7uTUCQEhsivfsmYEnZ6prSLBzDDDDDooP#tvbus://3by6BHbyRcfGjQ23X7uTUCQEhsivfsmYEnZ6prSLBzDDDDDooP#p2p://0198.02686.cc:16871/5e1092f4000ba63e1cdf5b64b69687f8.ts#p2p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts#tvbus://4GdX4zPJrESdQSQ5q1DwfrzrYSZvRSJDu5whSpqvcjcCfQTFD1#http://hdl0901.plures.net/onlive/a384162937073f91695b96c5262a9319.flv#vjms://121.14.222.77:8500/live/cid=428#vjms://121.14.222.77:8500/live/cid=428#tvbus://3TzruULpqcD5bjBjWBmUY4UdqH8eboy88JrU4LgXJHsqoJBdbq#tvbus://3TzruULpqcD5bjBjWBmUY4UdqH8eboy88JrU4LgXJHsqoJBdbq#p8p://0198.02686.cc:16871/5e1092f4000ba63e1cdf5b64b69687f8.ts#tvbus://4GdX4zPJrESdQSQ5q1DwfrzrYSZvRSJDu5whSpqvcjcCfQTFD1#mitv://198.255.74.57:12396/5e50205a000c2c553d32694a1621c2de.ts#p2p://185.212.201.60:6005/5e05153d00023bc90566cc1cb66c8005.ts#p2p://147.135.39.171:9906/5d9a3074000760469cc889bc0bf01660.ts#p2p://198.255.74.87:9906/5dc08efe000b8c7e01b784a46c9cd95b.ts#mitv://198.255.74.57:12396/5e50205a000c2c553d32694a1621c2de.ts
 BBC,p2p://lino.homeunix.com:6007/59fd16bc000f2550026d4d870b85516d.ts#p2p://sdgdklwos.finetv.tv:9906/59fd16bc000f2550026d4d870b85516d
 TVBS,p2p://lino.homeunix.com:6007/59fd20d3000f24fd0294b75f4a555e2a.ts#p2p://sdgdklwos.finetv.tv:9906/59fd096d0003aa9702394e013b6206a2
 CGTN,http://live.cgtn.com/1000/prog_index.m3u8
@@ -109,7 +110,7 @@ CCTV-15音乐,http://www.dszbdq.cn/diao/ysp.php?tv=0205003
 上海都市,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=5&Provider_id=&Pcontent_id=
 新闻综合,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=18&Provider_id=&Pcontent_id=
 ICS,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=86&Provider_id=&Pcontent_id=
-纪实人文,http://124.75.27.199:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=37&Provider_id=&Pcontent_id=
+纪实人文,http://124.75.27.199:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=37&Provider_id=&Pcontent_id=#http://111.40.205.87/PLTV/88888888/224/3221225738/index.m3u8#上海纪实,http://111.40.205.87/PLTV/88888888/224/3221225748/index.m3u8
 五星体育,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=1&Provider_id=&Pcontent_id=
 第1财经http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=7&Provider_id=&Pcontent_id=
 劲爆体育,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=51&Provider_id=&Pcontent_id=
