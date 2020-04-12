@@ -111,8 +111,8 @@ CCTV-15音乐,http://www.dszbdq.cn/diao/ysp.php?tv=0205003
 东方影视,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=1&Provider_id=&Pcontent_id=
 上海都市,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=5&Provider_id=&Pcontent_id=
 新闻综合,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=18&Provider_id=&Pcontent_id=
-ICS,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=86&Provider_id=&Pcontent_id=
-纪实人文,http://124.75.27.199:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=37&Provider_id=&Pcontent_id=#http://111.40.205.87/PLTV/88888888/224/3221225738/index.m3u8#上海纪实,http://111.40.205.87/PLTV/88888888/224/3221225748/index.m3u8
+ICS,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=86&Provider_id=&Pcontent_id=#rtmp://122.144.232.1/live/wypd
+纪实人文,http://124.75.27.199:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=37&Provider_id=&Pcontent_id=#http://111.40.205.87/PLTV/88888888/224/3221225738/index.m3u8#上海纪实,http://111.40.205.87/PLTV/88888888/224/3221225748/index.m3u8#rtmp://122.144.232.1/live/jspd
 五星体育,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=1&Provider_id=&Pcontent_id=
 第1财经http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=7&Provider_id=&Pcontent_id=
 劲爆体育,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=51&Provider_id=&Pcontent_id=
