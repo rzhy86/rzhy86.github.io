@@ -1,5 +1,5 @@
 新闻频道,#genre#
-CCTV-13,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+CCTV 13,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
 CNN,p2p://sdgdklwos.finetv.tv:9906/59fd16db000b5f05026dc5a57b516fdb
 BBC,p2p://sdgdklwos.finetv.tv:9906/59fd16bc000f2550026d4d870b85516d
 TVBS,p2p://sdgdklwos.finetv.tv:9906/59fd20d3000f24fd0294b75f4a555e2a
@@ -15,97 +15,49 @@ NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index
 RTE News,https://live.rte.ie/live/a/channel3/news.isml/news-audio_128k=128000-video=4499968.m3u8
 News Center 7 (Ohio),http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8
 
-国内频道V1,#genre#
-CCTV1,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000210103.m3u8
-CCTV2,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000203603.m3u8
-CCTV3,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000203803.m3u8
-CCTV4,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000204803.m3u8
-CCTV5,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000205103.m3u8
-CCTV5+,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000204503.m3u8
-CCTV6,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA2B7CAU3090C010K77540044IFB84556FPBM3220A5DV1044EZ33519WE22942B42A1&playtoken=ABCDEFGHI&programid=4200000136.m3u8
-CCTV7,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000510003.m3u8
-CCTV8,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000203903.m3u8
-CCTV9,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000499403.m3u8
-CCTV10,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000203503.m3u8
-CCTV11,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000204103.m3u8
-CCTV12,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000202603.m3u8
-CCTV13,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000204603.m3u8
-CCTV14少儿,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000204403.m3u8
-CCTV15音乐,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000205003.m3u8
-CCTV17,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000204203.m3u8
-CCTV4k,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000266303.m3u8
-湖南卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000296203.m3u8
-浙江卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000295503.m3u8
-江苏卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000295603.m3u8
-北京卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000272103.m3u8
-东方卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000292403.m3u8
-天津卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000831&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-广东卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000292703.m3u8
-深圳卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000292203.m3u8
-山东卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000294803.m3u8
-湖北卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000294503.m3u8
-安徽卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000298003.m3u8
-东南卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000292503.m3u8
-江西卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000294103.m3u8
-四川卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000295003.m3u8
-贵州卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000293303.m3u8
-重庆卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000297803.m3u8
-海南卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000291503.m3u8
-河北卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000293403.m3u8
-河南卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000296103.m3u8
-辽宁卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000281303.m3u8
-黑龙江卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000293903.m3u8
-甘肃卫视,http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=012&Provider_id=&Pcontent_id=index.m3u8
-广西卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000294203.m3u8
-青海卫视,http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=206&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-山西卫视,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=010&Provider_id=&Pcontent_id=index.m3u8
-云南卫视,http://39.130.218.239:6610/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
-陕西卫视,http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=011&Provider_id=&Pcontent_id=index.m3u8
-吉林卫视,http://39.135.15.70:6610/PLTV/88888888/224/3221225753/1/1000.m3u8?IAS
-内蒙古卫视,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=016&Provider_id=&Pcontent_id=index.m3u8
-新疆卫视,http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=009&Provider_id=&Pcontent_id=index.m3u8
-西藏卫视,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=018&Provider_id=&Pcontent_id=index.m3u8
-
-国内频道V2,#genre#
-CCTV-1综合,http://www.dszbdq.cn/diao/ysp.php?tv=0210103
-CCTV-2财经,http://www.dszbdq.cn/diao/ysp.php?tv=0203603
-CCTV-3综艺,http://www.dszbdq.cn/diao/ysp.php?tv=0203803
-CCTV-4中文国际,http://www.dszbdq.cn/diao/ysp.php?tv=0204803
-CCTV-5体育,http://www.dszbdq.cn/diao/ysp.php?tv=0205103
-CCTV-5+体育赛事,http://www.dszbdq.cn/diao/ysp.php?tv=0204503
-CCTV-6电影,http://www.dszbdq.cn/diao/ysp.php?tv=0203303
-CCTV-7国防军事,http://www.dszbdq.cn/diao/ysp.php?tv=0510003
-CCTV-8电视剧,http://www.dszbdq.cn/diao/ysp.php?tv=0203903
-CCTV-9记录,http://www.dszbdq.cn/diao/ysp.php?tv=0499403
-CCTV-10科教,http://www.dszbdq.cn/diao/ysp.php?tv=0203503
-CCTV-11戏曲,http://www.dszbdq.cn/diao/ysp.php?tv=0204103
-CCTV-12社会与法,http://www.dszbdq.cn/diao/ysp.php?tv=0202603
-CCTV-13新闻,http://www.dszbdq.cn/diao/ysp.php?tv=0204603
-CCTV-14少儿,http://www.dszbdq.cn/diao/ysp.php?tv=0204403
-CCTV-15音乐,http://www.dszbdq.cn/diao/ysp.php?tv=0205003
-湖南卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0296203
-东方卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0292403
-广东卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0292703
-深圳卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0292203
-深圳卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0292203
-江苏卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0295603
-江苏卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0295603
-浙江卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0295503
-北京卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0272103
-海南卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0291503
-山东卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0294803
-江西卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0294103
-湖北卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0294503
-河南卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0296103
-河北卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0293403
-贵州卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0293303
-东南卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0292503
-广西卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0294203
-四川卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0295003
-辽宁卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0281303
-重庆卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0297803
-安徽卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0298003
-黑龙江卫视,http://www.dszbdq.cn/diao/ysp.php?tv=0293903
+国内频道,#genre#
+超高清 4K,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
+CCTV 1,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
+CCTV 2,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
+CCTV 3,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000203803.m3u8
+CCTV 4,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000204803.m3u8
+CCTV 5,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000205103.m3u8
+CCTV 5+,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000204503.m3u8
+CCTV 6,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000203303.m3u8
+CCTV 7,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000510003.m3u8
+CCTV 8,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000203903.m3u8
+CCTV 9,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000499403.m3u8
+CCTV 10,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000203503.m3u8
+CCTV 11,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000204103.m3u8
+CCTV 12,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000202603.m3u8
+CCTV 13,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
+CCTV 14,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000204403.m3u8
+CCTV 15,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000205003.m3u8
+CCTV 17,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000204203.m3u8
+CGTN,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2001656801.m3u8
+湖南卫视,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000296203.m3u8
+东方卫视,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000292403.m3u8
+黑龙江卫视,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000293903.m3u8
+广东卫视,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000292703.m3u8
+深圳卫视,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000292203.m3u8
+江苏卫视,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000295603.m3u8
+浙江卫视,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000295503.m3u8
+江苏卫视,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000295603.m3u8
+深圳卫视,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000292201.m3u8
+北京卫视,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000272101.m3u8
+海南卫视,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000291501.m3u8
+山东卫视,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000294801.m3u8
+江西卫视,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000294101.m3u8
+湖北卫视,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000294501.m3u8
+河南卫视,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000296101.m3u8
+河北卫视,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000293401.m3u8
+贵州卫视,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000293301.m3u8
+东南卫视,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000292501.m3u8
+广西卫视,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000294201.m3u8
+四川卫视,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000295001.m3u8
+辽宁卫视,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000281301.m3u8
+重庆卫视,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000297801.m3u8
+安徽卫视,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000298001.m3u8
 
 上海电信,#genre#
 东方卫视,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=22&Provider_id=&Pcontent_id=
