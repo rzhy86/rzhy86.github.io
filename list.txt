@@ -5,9 +5,13 @@ BBC,p2p://sdgdklwos.finetv.tv:9906/59fd16bc000f2550026d4d870b85516d
 TVBS,p2p://sdgdklwos.finetv.tv:9906/59fd20d3000f24fd0294b75f4a555e2a
 东方卫视,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=22&Provider_id=&Pcontent_id=
 CGTN,http://live.cgtn.com/1000/prog_index.m3u8
-无线新闻台,p2p://147.135.39.171:9906/5dfa63a60001338a1415d76621bf735e.ts
+无线新闻台,http://155.94.164.191/live.php?id=1
+TVB,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_news_windows1.smil/playlist.m3u8?hdnea=st=1591866131~exp=1591952531~acl=/newslive/smil:mobilehd_news_windows1.smil/*~hmac=cae3062ea785a5a8775fc68966854d9d904f460c1117ccc3d456c9378ae659b7
 Bloomberg,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8#p2p://147.135.39.171:9906/5defdaa10006c0ed6ea069831b9a2ab0.ts
-凤凰资讯,p2p://sdgdklwos.finetv.tv:9906/59fd0c48000e15630244781932ff7852
+凤凰资讯,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+凤凰中文,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
+凤凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+东森新闻,http://180.178.37.174:8006/lbtv/live/kwzq1rse/94zf0c2v/index.m3u8
 TBSニュースバード,p2p://42.116.8.235:9906/58a5394d0008eaaf002b3d3b91fd3936.ts
 Japan News 24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8#http://www.news24.jp/livestream/index.m3u8
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
