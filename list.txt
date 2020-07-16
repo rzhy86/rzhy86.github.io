@@ -1,9 +1,9 @@
 新闻频道,#genre#
-CCTV 13,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
+CCTV 13,http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8
 CNN,vjms://58.215.133.189:8500/live/cid=428
 BBC,vjms://58.215.133.189:8500/live/cid=418
 TVBS,p2p://sdgdklwos.finetv.tv:9906/59fd20d3000f24fd0294b75f4a555e2a
-东方卫视,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=22&Provider_id=&Pcontent_id=
+东方卫视,http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000292403.m3u8
 CGTN,http://live.cgtn.com/1000/prog_index.m3u8
 无线新闻台,http://155.94.164.191/live.php?id=1
 TVB,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_news_windows1.smil/playlist.m3u8?hdnea=st=1591866131~exp=1591952531~acl=/newslive/smil:mobilehd_news_windows1.smil/*~hmac=cae3062ea785a5a8775fc68966854d9d904f460c1117ccc3d456c9378ae659b7
@@ -21,179 +21,43 @@ RTE News,https://live.rte.ie/live/a/channel3/news.isml/news-audio_128k=128000-vi
 News Center 7 (Ohio),http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8
 
 国内频道,#genre#
-CCTV 4K,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
-CCTV 1,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
-CCTV 2,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
-CCTV 3,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000203803.m3u8
-CCTV 4,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000204803.m3u8
-CCTV 5,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000205103.m3u8
-CCTV 5+,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000204503.m3u8
-CCTV 6,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000203303.m3u8
-CCTV 7,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000510003.m3u8
-CCTV 8,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000203903.m3u8
-CCTV 9,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000499403.m3u8
-CCTV 10,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000203503.m3u8
-CCTV 11,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000204103.m3u8
-CCTV 12,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000202603.m3u8
-CCTV 13,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
-CCTV 14,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000204403.m3u8
-CCTV 15,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000205003.m3u8
-CCTV 17,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000204203.m3u8
-CGTN,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2001656803.m3u8
-浙江卫视,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000295503.m3u8
-北京卫视,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000272103.m3u8
-湖南卫视,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000296203.m3u8
-东方卫视,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000292403.m3u8
-黑龙江卫视,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000293903.m3u8
-广东卫视,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000292703.m3u8
-深圳卫视,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000292203.m3u8
-江苏卫视,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000295603.m3u8
-海南卫视,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000291503.m3u8
-山东卫视,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000294803.m3u8
-江西卫视,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000294103.m3u8
-湖北卫视,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000294503.m3u8
-河南卫视,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000296103.m3u8
-河北卫视,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000293403.m3u8
-贵州卫视,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000293303.m3u8
-东南卫视,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000292503.m3u8
-广西卫视,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
-四川卫视,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000295003.m3u8
-辽宁卫视,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000281303.m3u8
-重庆卫视,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000297803.m3u8
-安徽卫视,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000298003.m3u8
-吉林卫视,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000284703.m3u8
-宁夏卫视,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000285103.m3u8
-陕西卫视,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000294403.m3u8
-甘肃卫视,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000294603.m3u8
-青海卫视,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000294703.m3u8
-天津卫视,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000295103.m3u8
-
-上海电信,#genre#
-东方卫视,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=22&Provider_id=&Pcontent_id=
-东方影视,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=1&Provider_id=&Pcontent_id=
-上海都市,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=5&Provider_id=&Pcontent_id=
-新闻综合,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=18&Provider_id=&Pcontent_id=
-ICS,rtmp://122.144.232.1/live/wypd
-纪实人文,rtmp://122.144.232.1/live/jspd
-五星体育,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=1&Provider_id=&Pcontent_id=
-第1财经http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=7&Provider_id=&Pcontent_id=#rtmp://122.144.232.1/live/dycj
-全纪实http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=18&Provider_id=&Pcontent_id=
-CCTV-1综合,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=9&Provider_id=&Pcontent_id=
-CCTV-3综艺,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=38&Provider_id=&Pcontent_id=
-CCTV-5体育,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=42&Provider_id=&Pcontent_id=
-CCTV-6电影,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=46&Provider_id=&Pcontent_id=
-CCTV-8电视剧,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=50&Provider_id=&Pcontent_id=
-1台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=1&Provider_id=&Pcontent_id=
-2台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=5&Provider_id=&Pcontent_id=
-3台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=18&Provider_id=&Pcontent_id=
-4台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=22&Provider_id=&Pcontent_id=
-5台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=26&Provider_id=&Pcontent_id=
-6台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=76&Provider_id=&Pcontent_id=
-7台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=85&Provider_id=&Pcontent_id=
-8台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=84&Provider_id=&Pcontent_id=
-9台,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=1&Provider_id=&Pcontent_id=
-10台,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=38&Provider_id=&Pcontent_id=
-11台,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=42&Provider_id=&Pcontent_id=
-12台,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=46&Provider_id=&Pcontent_id=
-13台,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=50&Provider_id=&Pcontent_id=
-14台,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=51&Provider_id=&Pcontent_id=
-15台,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=73&Provider_id=&Pcontent_id=
-16台,http://124.75.27.199:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=43&Provider_id=&Pcontent_id=
-17台,http://124.75.27.199:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=42&Provider_id=&Pcontent_id=
-18台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=2&Provider_id=&Pcontent_id=
-19台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=6&Provider_id=&Pcontent_id=
-20台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=9&Provider_id=&Pcontent_id=
-21台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=12&Provider_id=&Pcontent_id=
-22台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=15&Provider_id=&Pcontent_id=
-23台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=20&Provider_id=&Pcontent_id=
-24台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=23&Provider_id=&Pcontent_id=
-25台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=28&Provider_id=&Pcontent_id=
-26台,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=37&Provider_id=&Pcontent_id=
-27台,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=41&Provider_id=&Pcontent_id=
-28台,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=45&Provider_id=&Pcontent_id=
-29台,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=49&Provider_id=&Pcontent_id=
-30台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=59&Provider_id=&Pcontent_id=
-31台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=60&Provider_id=&Pcontent_id=
-32台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=61&Provider_id=&Pcontent_id=
-33台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=62&Provider_id=&Pcontent_id=
-34台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=65&Provider_id=&Pcontent_id=
-35台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=68&Provider_id=&Pcontent_id=
-36台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=74&Provider_id=&Pcontent_id=
-37台,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=52&Provider_id=&Pcontent_id=
-38台,http://124.75.27.199:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=34&Provider_id=&Pcontent_id=
-39台,http://124.75.27.199:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=33&Provider_id=&Pcontent_id=
-40台,http://124.75.27.199:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=35&Provider_id=&Pcontent_id=
-41台,http://124.75.27.199:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=37&Provider_id=&Pcontent_id=
-42台,http://124.75.27.199:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=44&Provider_id=&Pcontent_id=
-43台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=39&Provider_id=&Pcontent_id=
-44台,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=16&Provider_id=&Pcontent_id=
-45台,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=72&Provider_id=&Pcontent_id=
-46台,http://124.75.27.199:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=57&Provider_id=&Pcontent_id=
-47台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=38&Provider_id=&Pcontent_id=
-48台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=3&Provider_id=&Pcontent_id=
-49台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=7&Provider_id=&Pcontent_id=
-50台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=19&Provider_id=&Pcontent_id=
-51台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=25&Provider_id=&Pcontent_id=
-52台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=27&Provider_id=&Pcontent_id=
-53台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=13&Provider_id=&Pcontent_id=
-54台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=0&Provider_id=&Pcontent_id=
-55台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=4&Provider_id=&Pcontent_id=
-56台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=8&Provider_id=&Pcontent_id=
-57台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=11&Provider_id=&Pcontent_id=
-58台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=21&Provider_id=&Pcontent_id=
-59台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=24&Provider_id=&Pcontent_id=
-60台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=29&Provider_id=&Pcontent_id=
-61台,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=35&Provider_id=&Pcontent_id=
-62台,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=39&Provider_id=&Pcontent_id=
-63台,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=43&Provider_id=&Pcontent_id=
-64台,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=47&Provider_id=&Pcontent_id=
-65台,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=3&Provider_id=&Pcontent_id=
-66台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=70&Provider_id=&Pcontent_id=
-67台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=71&Provider_id=&Pcontent_id=
-68台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=80&Provider_id=&Pcontent_id=
-69台,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=56&Provider_id=&Pcontent_id=
-70台,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=59&Provider_id=&Pcontent_id=
-71台,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=64&Provider_id=&Pcontent_id=
-72台,http://124.75.27.199:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=39&Provider_id=&Pcontent_id=
-73台,http://124.75.27.199:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=40&Provider_id=&Pcontent_id=
-74台,http://124.75.27.199:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=41&Provider_id=&Pcontent_id=
-75台,http://124.75.27.199:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=52&Provider_id=&Pcontent_id=
-76台,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=2&Provider_id=&Pcontent_id=
-77台,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=5&Provider_id=&Pcontent_id=
-78台,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=27&Provider_id=&Pcontent_id=
-79台,http://124.75.27.199:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=19&Provider_id=&Pcontent_id=
-80台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=10&Provider_id=&Pcontent_id=
-81台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=14&Provider_id=&Pcontent_id=
-82台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=40&Provider_id=&Pcontent_id=
-83台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=43&Provider_id=&Pcontent_id=
-84台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=42&Provider_id=&Pcontent_id=
-85台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=44&Provider_id=&Pcontent_id=
-86台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=45&Provider_id=&Pcontent_id=
-87台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=46&Provider_id=&Pcontent_id=
-88台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=47&Provider_id=&Pcontent_id=
-89台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=48&Provider_id=&Pcontent_id=
-90台,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=17&Provider_id=&Pcontent_id=
-91台,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=36&Provider_id=&Pcontent_id=
-92台,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=40&Provider_id=&Pcontent_id=
-93台,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=44&Provider_id=&Pcontent_id=
-94台,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=48&Provider_id=&Pcontent_id=
-95台,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=58&Provider_id=&Pcontent_id=
-96台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=32&Provider_id=&Pcontent_id=
-97台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=35&Provider_id=&Pcontent_id=
-98台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=36&Provider_id=&Pcontent_id=
-99台,http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=57&Provider_id=&Pcontent_id=
-100台,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=4&Provider_id=&Pcontent_id=
-101台,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=6&Provider_id=&Pcontent_id=
-102台,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=7&Provider_id=&Pcontent_id=
-103台,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=8&Provider_id=&Pcontent_id=
-104台,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=13&Provider_id=&Pcontent_id=
-105台,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=18&Provider_id=&Pcontent_id=
-106台,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=21&Provider_id=&Pcontent_id=
-107台,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=22&Provider_id=&Pcontent_id=
-108台,http://124.75.27.196:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=28&Provider_id=&Pcontent_id=
-109台,http://124.75.27.199:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=0&Provider_id=&Pcontent_id=
-110台,http://124.75.27.199:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=1&Provider_id=&Pcontent_id=
-111台,http://124.75.27.199:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=5&Provider_id=&Pcontent_id=
+CCTV1,http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000210103.m3u8
+CCTV2,http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000203603.m3u8
+CCTV3,http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000203803.m3u8
+CCTV4,http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204803.m3u8
+CCTV5,http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000205103.m3u8
+CCTV5+,http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204503.m3u8
+CCTV6,http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000203303.m3u8
+CCTV7,http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000510003.m3u8
+CCTV8,http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000203903.m3u8
+CCTV9,http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000499403.m3u8
+CCTV10,http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000203503.m3u8
+CCTV11,http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204103.m3u8
+CCTV12,http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000202603.m3u8
+CCTV13,http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8
+CCTV14,http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204403.m3u8
+CCTV15,http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000205003.m3u8
+CCTV17,http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204203.m3u8
+CCTV4K,http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000266303.m3u8
+CGTN,http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2001656803.m3u8
+重庆卫视,http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000297803.m3u8
+湖南卫视,http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000296203.m3u8
+东方卫视,http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000292403.m3u8
+黑龙江卫视,http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000293903.m3u8
+广东卫视,http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000292703.m3u8
+深圳卫视,http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000292203.m3u8
+江苏卫视,http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000295603.m3u8
+浙江卫视,http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000295503.m3u8
+江苏卫视,http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000295603.m3u8
+深圳卫视,http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000292203.m3u8
+北京卫视,http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000272103.m3u8
+江西卫视,http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000294103.m3u8
+湖北卫视,http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000294503.m3u8
+河南卫视,http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000296103.m3u8
+贵州卫视,http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000293303.m3u8
+东南卫视,http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000292503.m3u8
+广西卫视,http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000294203.m3u8
+四川卫视,http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000295003.m3u8
 
 影视轮播,#genre#
 CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
