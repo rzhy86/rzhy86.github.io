@@ -1,5 +1,4 @@
 新闻频道,#genre#
-CCTV 13,http://129.226.106.81/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8
 CNN,vjms://58.215.133.189:8500/live/cid=428
 BBC,vjms://58.215.133.189:8500/live/cid=418
 TVBS,p2p://sdgdklwos.finetv.tv:9906/59fd20d3000f24fd0294b75f4a555e2a
